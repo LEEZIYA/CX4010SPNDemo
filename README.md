@@ -14,7 +14,7 @@ We implement a simple SPN with 2 rounds of 4x4 bit S-boxes and 8 bit p-boxes, wi
 We implement the linear cryptanalysis with reference to a tutorial by Howard M. Heys (https://ioactive.com/wp-content/uploads/2015/07/ldc_tutorial.pdf) and a github repository (https://github.com/physics-sec/Linear-Cryptanalysis)
 
 ## Development
-All codes are written in Python language in one single Python jupyter notebook file with comments and markdowns. An OOP designed SPN is developed and tested before applying linear cryptanalysis. For demonstration, run the SPN_Network.ipynb from the top using Jupyiter Notebook or google colab. Alternatively, run the SPN_Network.py file using python intepreter or IDE.
+All codes are written in Python language in one single Python jupyter notebook file with comments and markdowns. An OOP designed SPN is developed and tested before applying linear cryptanalysis. For demonstration, run the SPN_Network.ipynb from the top using Jupyiter Notebook or google colab. Alternatively, run the SPN_Network.py file using python intepreter or IDE. The two file have same content.
 
 ## Use of the Code
 The codes may be used for linear cryptanalysis of SPN ciphers
